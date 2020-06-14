@@ -1,0 +1,2 @@
+ng build --prod --base-href "https://devraafi.github.io/covid-ng/"
+ngh --dir dist/
